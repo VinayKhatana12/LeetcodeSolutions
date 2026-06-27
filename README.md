@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,5 +23,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

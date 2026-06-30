@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0007-reverse-integer/) | Medium |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Two Pointers

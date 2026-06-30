@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

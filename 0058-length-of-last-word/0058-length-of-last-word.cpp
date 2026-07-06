@@ -7,7 +7,6 @@ public:
         while(i>=0&&s[i]!=' '){
             count++;
             i--;
-      //  if(s[i]==' ') break;
         }
     return count;
         

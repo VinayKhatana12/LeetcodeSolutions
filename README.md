@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0520-detect-capital/) | Easy |
+| [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
@@ -66,12 +67,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |

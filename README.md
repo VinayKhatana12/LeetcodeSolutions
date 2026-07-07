@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |

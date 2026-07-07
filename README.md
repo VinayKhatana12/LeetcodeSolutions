@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |

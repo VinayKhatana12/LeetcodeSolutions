@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math

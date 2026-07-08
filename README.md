@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

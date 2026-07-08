@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

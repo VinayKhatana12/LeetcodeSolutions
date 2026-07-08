@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -63,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

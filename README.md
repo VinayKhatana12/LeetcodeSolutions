@@ -149,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->

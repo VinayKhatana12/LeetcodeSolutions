@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |

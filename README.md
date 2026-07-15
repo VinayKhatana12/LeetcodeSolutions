@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1527-patients-with-a-condition/) | Easy |

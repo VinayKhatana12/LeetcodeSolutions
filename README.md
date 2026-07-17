@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |

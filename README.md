@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
@@ -224,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

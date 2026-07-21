@@ -26,8 +26,8 @@ public:
         sort(nums.begin(), nums.end());
         for (int i = 0; i < nums.size() - 2; i++) {
             if(i>0&& nums[i]==nums[i-1]) continue;
-            int n = nums[i];
-            int target = -n;
+           // int n = nums[i];
+            int target = -nums[i];
             twoSum(nums, i + 1, target, ans);
         }
         return ans;

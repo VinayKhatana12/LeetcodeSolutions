@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

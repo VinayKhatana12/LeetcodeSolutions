@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0278-first-bad-version/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

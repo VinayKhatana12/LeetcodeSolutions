@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0520-detect-capital/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |

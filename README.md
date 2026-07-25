@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0342-power-of-four/) | Easy |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

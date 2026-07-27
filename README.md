@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

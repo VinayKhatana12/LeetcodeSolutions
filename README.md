@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0342-power-of-four/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

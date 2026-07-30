@@ -290,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->

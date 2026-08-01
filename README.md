@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0704-binary-search/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -296,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0077-combinations/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->

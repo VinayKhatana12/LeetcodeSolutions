@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
@@ -308,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0860-lemonade-change/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->

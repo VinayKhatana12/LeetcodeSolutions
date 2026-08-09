@@ -1,23 +1,15 @@
 class Solution {
-
-    int leftSum(int[] nums , int j){
-        int sum=0;
-        for(int i=0;i<j;i++){
-            sum += nums[i];
-        }
-     return sum;
-    }
-     int rightSum(int[] nums , int j){
-        int sum=0;
-        for(int i=j+1;i<nums.length;i++){
-            sum += nums[i];
-        }
-     return sum;
-    }
     public int pivotIndex(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            if(leftSum(nums,i)==rightSum(nums,i)) return i;
+        int total = 0;
+        for(int num:nums){
+            total+=num;
         }
-    return -1;  
+        int left=0;
+         for(int i=0;i<nums.length;i++){
+            int right = total-left-nums[i];
+            if(left==right) return i;
+            left += nums[i];
+         }
+    return -1;   
     }
 }

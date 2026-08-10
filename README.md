@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |

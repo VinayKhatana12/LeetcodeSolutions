@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3110-score-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

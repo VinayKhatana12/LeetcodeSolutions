@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort

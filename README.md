@@ -361,4 +361,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->

@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1678-goal-parser-interpretation](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [3110-score-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

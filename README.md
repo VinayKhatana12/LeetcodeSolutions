@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0796-rotate-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3110-score-of-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation

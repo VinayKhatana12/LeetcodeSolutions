@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0326-power-of-three/) | Easy |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -390,4 +393,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

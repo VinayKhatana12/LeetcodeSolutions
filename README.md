@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3731-find-missing-elements](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3731-find-missing-elements](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/VinayKhatana12/LeetcodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
